@@ -1,0 +1,20 @@
+﻿l_english:
+
+ #First changes, Still not sure about these, but I feel they are more appropriate
+ #Localisation Changes for TypusHollandia
+ 
+ PROV92:0 "Brabant"
+ PROV99:0 "Arnhem"
+ PROV3063:0 "Gelre"
+ PROV4383:0 "Den Haag"          #Formerly 3062
+ PROV_ADJ92:0 "Brabander"
+ PROV_ADJ99:0 "Arnhemer"
+ PROV_ADJ4383:0 "Haager"
+ PROV_ADJ3063:0 "Gelder"
+ netherlands_area:0 "Holland"
+ netherlands_area_name:0 "Holland"
+ netherlands_area_adj:0 "Hollander"
+ guelders_area:0 "Dutch Low Saxony"
+ guelders_area_name:0 "Dutch Low Saxony"
+ guelders_area_adj:0 "Dutch Low Saxon"
+ 
